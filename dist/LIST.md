@@ -209,6 +209,8 @@ All images these are property of Clapfoot Inc.
 | ![subtypesmk.png](icons/items/subtypesmk.png) | subtypesmk.png |
 | ![subtypesnow.png](icons/items/subtypesnow.png) | subtypesnow.png |
 | ![subtypetank.png](icons/items/subtypetank.png) | subtypetank.png |
+| ![subtypearmour.png](icons/items/subtypearmour.png) | subtypearmour.png |
+| ![subtypeofficer.png](icons/items/subtypeofficer.png) | subtypeofficer.png |
 | ![sulfur.png](icons/items/sulfur.png) | sulfur.png |
 | ![tobaccopickup.png](icons/items/tobaccopickup.png) | tobaccopickup.png |
 | ![traumakititem.png](icons/items/traumakititem.png) | traumakititem.png |
